@@ -6,7 +6,7 @@
 //	do
 //	{
 //		count++;
-//	}while(n=n&(n-1));//Éý¼¶°æ
+//	}while(n=n&(n-1));     //ä¼˜åŒ–ç‰ˆ
 //	printf("%d\n",count);
 //	return 0;
 //}
